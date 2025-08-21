@@ -1,0 +1,5 @@
+structure/index.html
+
+git add .
+git commit -m "Today's Work"
+git push
